@@ -1,0 +1,37 @@
+Hardware Required
+Product 2 - Safety
+
+Parts Needed
+
+NodeMcu Lua WIFI Internet of Things development board based on ESP8266-- 1 ( MCU and WIFI capability)
+
+http://www.seeedstudio.com/depot/NodeMCU-v2-Lua-based-ESP8266-development-kit-p-2415.html
+
+Motion detector shield -- 1
+
+https://www.sparkfun.com/products/13285
+
+1 relay module with opto isolation supports high and low trigger 5V--- 1
+
+http://www.aliexpress.com/store/product/1-relay-module-with-opto-isolation-supports-high-and-low-trigger-one-relay-expansion-board-5V/237733_32294986881.html
+
+12V1A \ 5V1A fully isolated switching power supply / AC-DC modules / 220V switch 12v 5v lose-lose (C4B1) -- 1
+
+http://www.aliexpress.com/store/product/2PCS-LOT-12V1A-5V-1A-fully-isolated-switching-power-supply-AC-DC-modules-220V-switch-12v/639111_32227692682.html
+
+Generic PCB with bus lines ---- 1
+
+http://www.amazon.com/Solderable-BreadBoard-matches-tie-point-breadboards/dp/B0040Z3012/ref=pd_sim_328_2?ie=UTF8&dpID=61oLmBfSgYL&dpSrc=sims&preST=_AC_UL160_SR160%2C160_&refRID=1TRKGBX4YJ9BD19Z3KWE
+
+Casing -- 1
+
+http://www.budind.com/view/NEMA+Boxes/Blue+Transparent+NEMA+4X
+
+Soldering KIT
+
+http://www.homedepot.com/p/Weller-25-Watt-Standard-Duty-Soldering-Iron-Kit-SP25NKUS/204195328
+
+Insulation TAPE -- 1
+
+
+** For India please contact me for a course kit. It has all the parts and accessories exactly as I have used which will help you to follow the course, test your knowledge by creating products.
